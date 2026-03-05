@@ -6,3 +6,5 @@ dist/
 build/
 .venv/
 backups/
+last_proposal.json
+.sagemarks_state.json
