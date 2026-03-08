@@ -8,3 +8,6 @@ build/
 backups/
 last_proposal.json
 .sagemarks_state.json
+
+# bv (beads viewer) local config and caches
+.bv/
